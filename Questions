@@ -1,34 +1,68 @@
 Questions:
 Where are the traps placed?
+  Traps can be placed anywhere on the map
 Is touching a trap an automatic death or does it inflict damage
+  Automatic death
 How many traps per level?
+  Depends on level difficulty, anywhere from 1-5 scaling on level number
 Are traps the only way to die?
+  Yes
 Are traps and lava on platforms or just like floating?
+  Traps can be attached to walls and platforms
 How big are platforms comparatively to the cheese (big and small)?
+  Platforms can be anywhere from 1x cheese size to 5x cheese size
 Is there a time limit?
+  No time limit, but completing a level within 30 seconds unlocks dream speedrun timer
 How fast does the cheese move?
+  100 planck lengths/µC 
 Does it have constant velocity or is it accelerated by gravity?
+  Down is accelerated by gravity until it hits a platform
+  Other directions give a decaying velocity, so basically it gives an instant starting velocity and a negative acceleration value in the same direction
+  You are only allowed to move left/right when on the ground
 How far/high can the cheese jump?
+  100 planck lengths/µC 
 Is there a cooldown for jump?
+  yeah sure .5 seconds
 Is the game a maze? Is the view top-down? Is the view side-on?
+  side-on, 2 dimensional
 If a split minicheese hits a hazard…
 Is there an animation to eat it?
+  theoretically yes, a mouth pops out to eat it
 Clarification: so if the right split cheese dies, after cheese summon, the big cheese cannot go right?
+  correct
 Where is the mouse summoned from from? right, left, above, down?
+  right
 Do you need to summon cheese or can you go on forever without it? 
+  you dont have to summon the cheese back at any time but you cant move the individual minicheeses in single player so good luck getting anythihng done
 How long does music play for during each time it is played?
+  loop dat shit
 Are pants/clothing just for looks or do they have abilities/attributes?
+  just for looks for now
 Where will speed run timer be placed within the game? 
+  top right, transparent overlay to see rest of level
 Do the levels get longer or harder or both?
+  both, longer = vertically longer horizontal walls are the same
 Is there a home page or loading screen? 
+  home page is just level 1 with a big start button overlayed and the level grayed out
 Where is lava?
+  wherever you want it to be bb ;)
+    lava should be placed to punish poor play, so wherever players can jump poorly
 What does it look like?
+  graphic should be on our repo now
 
 To be Added Questions:
 Cosmetic unlocks - needs to be more specific
 What are you unlocking and what are the attributes that they provide the cheese
+  just cosmetic, no special capabilities
 How hard is it to unlock these cosmetics?
+   100 planck lengths/µC 
+   but seriously make it based on level completion time, we dk how fast it takes but maybe keep a record of fastest playtime and make it that
 Do you have to buy them or are they earned?
+  earned by special times 
 What do the last 3 cheese types provide the user (pros and cons)
+  nothing in terms of gameplay
 How do you choose what cheese type that you want to use?
+  menu below game, maybe just a bunch of buttons if its a website
 We need specifics on exactly how much higher one of the types can jump/more explosive the cheese can split
+  hard for us to give you exact numbers but maybe for now imagine that each minicheese starts off with the original initial velocity + deceleration constant that it would get by one movement input that direction, see how that works
+  
